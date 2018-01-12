@@ -41,3 +41,13 @@
     background-color: rgb(51, 255, 51);
     color: black;
   }
+  body  {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    line-height: 100%;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.5em;
+  }
