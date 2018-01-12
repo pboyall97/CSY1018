@@ -4,8 +4,9 @@
   }
   
   nav {
+    order: -1;
     margin:  20px;
-    padding: 0;
+    padding: 1em;
     background-color: #333;
   }
   
