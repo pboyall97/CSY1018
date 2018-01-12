@@ -27,7 +27,7 @@
   li a {
     text-decoration: none;
     color: rgb(51, 255, 51);
-    font: 25px/1 Arial, Veranda, sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     text-transform:uppercase;
     padding: 0 20px;
   }
