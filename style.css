@@ -10,6 +10,7 @@
   ul {
     overflow: auto;
     list-style-type: none;
+    background-color: black;
   }
   
   li {
@@ -28,8 +29,8 @@
   
   li a {
     text-decoration: none;
-    color: #ccc;
-    font: 25px/1 Helvetica, Veranda, sans-serif;
+    color: rgb(34, 218, 28);
+    font: 25px/1 Arial, Veranda, sans-serif;
     text-transform:uppercase;
   
   }
