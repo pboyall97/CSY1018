@@ -59,8 +59,9 @@
     background-color: #333;
     color: rgb(51, 255, 51);
   }
-  .footer {
+  .indexfooter {
     padding: 1em;
+    height: 500px;
     color: rgb(255, 255, 255);
     text-align: center;
     background-image: url(CSY1018/photos/milky-way.png);
