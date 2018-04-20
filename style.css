@@ -64,5 +64,8 @@
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     text-align: center;
-    background-image: url(CSY1018/photos/milky-way.png)
+    background-image: url(CSY1018/photos/milky-way.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
   }
