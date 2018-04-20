@@ -31,7 +31,7 @@
     color: rgb(51, 255, 51);
     font-family: 'Roboto Condensed', sans-serif;
     text-transform:uppercase;
-    padding: 0 0;
+    padding: 0.5em;
   }
 
   li a:hover {
