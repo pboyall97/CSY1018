@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding-bottom: 0;
+    padding: 0;
   }
   
   nav {
@@ -20,6 +20,7 @@
     float: left;
     margin-right: 0px;
     list-style-type: none;
+    padding: 0.5em;
   }
   
   li:last-child {
@@ -31,7 +32,6 @@
     color: rgb(51, 255, 51);
     font-family: 'Roboto Condensed', sans-serif;
     text-transform:uppercase;
-    padding: 0.5em;
   }
 
   li a:hover {
