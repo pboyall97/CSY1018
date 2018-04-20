@@ -64,6 +64,7 @@
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     text-align: center;
+<<<<<<< HEAD
   }
   .indexbackground { 
     width: 100%; 
@@ -71,4 +72,7 @@
     position: fixed; 
     left: 0px; 
     top: 0px; 
+=======
+    background-image: url(CSY1018/photos/milky-way.png)
+>>>>>>> 12ae38ed006abfe873537d863f9cfc5298843691
   }
