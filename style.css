@@ -69,10 +69,3 @@
     background-repeat: no-repeat;
     background-position: center center;
   }
-  .indexbackground { 
-    width: 100%; 
-    height: 100%; 
-    position: fixed; 
-    left: 0px; 
-    top: 0px; 
-  }
