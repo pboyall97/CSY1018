@@ -71,8 +71,5 @@
   }
   .profile {
     float: left;
-    clear: left;
-  }
-  .profiletext {
-    float: right;
+    list-style-type: none;
   }
