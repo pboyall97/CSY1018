@@ -71,4 +71,5 @@
   }
   .profile {
     float: left;
+    clear: left;
   }
