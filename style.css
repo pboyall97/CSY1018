@@ -73,3 +73,6 @@
     float: left;
     clear: left;
   }
+  .profiletext {
+    float: right;
+  }
