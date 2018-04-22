@@ -112,6 +112,18 @@
     display: block;
     text-align: center;
   }
+  .twitter {
+    display: block;
+    text-align: center;  
+  }
+  .linkedin {
+    display: block;
+    text-align: center;
+  }
+  .github {
+    display: block;
+    text-align: center;
+  }
   @media (min-width: 30em) {
     .icons {
       flex-direction: row;
