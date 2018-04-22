@@ -108,6 +108,10 @@
     flex-direction: column;
     flex: 1 0 auto;
   }
+  .facebook {
+    display: block;
+    text-align: center;
+  }
   @media (min-width: 30em) {
     .icons {
       flex-direction: row;
