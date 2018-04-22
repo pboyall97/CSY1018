@@ -108,6 +108,7 @@
     flex-direction: column;
     flex: 1 0 auto;
     overflow: auto;
+    align-items: center;
   }
   .facebook {
     display: block;
