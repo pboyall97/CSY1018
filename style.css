@@ -99,3 +99,12 @@
       flex: 1 0 auto;
     }
   }
+  /* Social page CSS */
+  .socialupper {
+    padding: 1em;
+  }
+  .icons {
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 auto;
+  }
