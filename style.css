@@ -107,22 +107,41 @@
     display: flex;
     flex-direction: column;
     flex: 1 0 auto;
+    overflow: auto;
+    width: 100%;
+    padding: 2em;
   }
   .facebook {
     display: block;
     text-align: center;
   }
+  .facebook-img {
+    border-radius: 50%;
+    height: 225px;
+  }
   .twitter {
     display: block;
     text-align: center;  
+  }
+  .twitter-img {
+    border-radius: 50%;
+    height: 225px;
   }
   .linkedin {
     display: block;
     text-align: center;
   }
+  .linkedin-img {
+    border-radius: 50%;
+    height: 225px;
+  }
   .github {
     display: block;
     text-align: center;
+  }
+  .github-img {
+    border-radius: 50%;
+    height: 225px;
   }
   @media (min-width: 30em) {
     .icons {
