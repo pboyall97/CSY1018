@@ -71,7 +71,7 @@
   }
   .aboutflex {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex: 1 0 auto;
   }
   .profile {
