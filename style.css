@@ -208,6 +208,7 @@
     }
   }
   .contactmap {
+    height: 500px;
     background-image: url(CSY1018/photos/maps.png);
     background-size: cover;
     background-repeat: no-repeat;
