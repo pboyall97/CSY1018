@@ -71,6 +71,8 @@
   }
   .aboutflex {
     display: flex;
+    flex-direction: column;
+    flex: 1 0 auto;
   }
   .profile {
     flex: 0;
