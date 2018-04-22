@@ -113,16 +113,23 @@
     display: block;
     text-align: center;
     width: 255px;
+    height: 300px;
+    transition: width 1s, height 1s;
   }
   .facebook-img {
     border-radius: 50%;
     height: 225px;
     padding: 0.5em;
   }
+  .facebook:hover {
+    width: 306;
+    height: 360px;
+  }
   .twitter {
     display: block;
     text-align: center; 
     width: 255px; 
+    height: 300px;
   }
   .twitter-img {
     border-radius: 50%;
@@ -133,6 +140,7 @@
     display: block;
     text-align: center;
     width: 255px;
+    height: 300px;
   }
   .linkedin-img {
     border-radius: 50%;
@@ -143,6 +151,7 @@
     display: block;
     text-align: center;
     width: 255px;
+    height: 300px;
   }
   .github-img {
     border-radius: 50%;
