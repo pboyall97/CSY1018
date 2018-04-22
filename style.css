@@ -69,9 +69,12 @@
     background-repeat: no-repeat;
     background-position: center center;
   }
+  .aboutflex {
+    display: flex;
+  }
   .profile {
-    float: left;
+    flex: 0;
   }
   .info { 
-    float: left;
+    flex: 1;
   }
