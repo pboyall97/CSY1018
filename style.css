@@ -109,6 +109,7 @@
     flex: 1 0 auto;
     overflow: auto;
     align-items: center;
+    padding: 0.2em;
   }
   .facebook {
     display: block;
@@ -132,33 +133,51 @@
     text-align: center; 
     width: 255px; 
     height: 300px;
+    transition: transform 1s;
   }
   .twitter-img {
     border-radius: 50%;
     height: 225px;
     padding: 0.5em;
   }
+  .twitter:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+  }
   .linkedin {
     display: block;
     text-align: center;
     width: 255px;
     height: 300px;
+    transition: transform 1s;
   }
   .linkedin-img {
     border-radius: 50%;
     height: 225px;
     padding: 0.5em;
   }
+  .linkedin:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+  }
   .github {
     display: block;
     text-align: center;
     width: 255px;
     height: 300px;
+    transition: transform 1s;
   }
   .github-img {
     border-radius: 50%;
     height: 225px;
     padding: 0.5em;
+  }
+  .github:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
   }
   @media (min-width: 30em) {
     .icons {
