@@ -76,8 +76,8 @@
   }
   .profile {
     flex: 1 0 auto;
-    height: 288px;
-    width: 267px;
+    max-height: 288px;
+    max-width: 267px;
     border-radius: 40%;
   }
   .info { 
