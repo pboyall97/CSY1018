@@ -105,20 +105,20 @@
     flex-direction: column;
     flex: 1 0 auto;
   }
-  .main {
+  .col1 {
     padding: 1em;
     text-align: center;
-    background: rgb(17, 179, 135);
+    background: rgb(255, 255, 255);
     flex: 1 1 auto;
   }
-  .aside  {
+  .col2 {
     padding:1em;
     text-align: center;
-    background: rgb(224, 220, 199);
+    background: rgb(255, 255, 255);
     width: 30%;
   }
   @media (max-width: 30em)  {
-    .main {
+    .col1 {
       flex: 1 0 auto;
     }
   }
