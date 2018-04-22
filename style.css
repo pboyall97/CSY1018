@@ -108,7 +108,6 @@
     flex-direction: column;
     flex: 1 0 auto;
     overflow: auto;
-    width: 80%;
   }
   .facebook {
     display: block;
