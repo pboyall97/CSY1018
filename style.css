@@ -99,6 +99,29 @@
       flex: 1 0 auto;
     }
   }
+  /* cv CSS*/
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 auto;
+  }
+  .main {
+    padding: 1em;
+    text-align: center;
+    background: rgb(17, 179, 135);
+    flex: 1 1 auto;
+  }
+  .aside  {
+    padding:1em;
+    text-align: center;
+    background: rgb(224, 220, 199);
+    width: 30%;
+  }
+  @media (max-width: 30em)  {
+    .main {
+      flex: 1 0 auto;
+    }
+  }
   /* Social page CSS */
   .socialupper {
     padding: 1em;
