@@ -109,11 +109,11 @@
     flex: 1 0 auto;
     overflow: auto;
     width: 80%;
-    padding: 2em;
   }
   .facebook {
     display: block;
     text-align: center;
+    width: 255px;
   }
   .facebook-img {
     border-radius: 50%;
@@ -122,7 +122,8 @@
   }
   .twitter {
     display: block;
-    text-align: center;  
+    text-align: center; 
+    width: 255px; 
   }
   .twitter-img {
     border-radius: 50%;
@@ -132,6 +133,7 @@
   .linkedin {
     display: block;
     text-align: center;
+    width: 255px;
   }
   .linkedin-img {
     border-radius: 50%;
@@ -141,6 +143,7 @@
   .github {
     display: block;
     text-align: center;
+    width: 255px;
   }
   .github-img {
     border-radius: 50%;
