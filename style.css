@@ -118,6 +118,7 @@
   .facebook-img {
     border-radius: 50%;
     height: 225px;
+    padding: 0.5em;
   }
   .twitter {
     display: block;
@@ -126,6 +127,7 @@
   .twitter-img {
     border-radius: 50%;
     height: 225px;
+    padding: 0.5em;
   }
   .linkedin {
     display: block;
@@ -134,6 +136,7 @@
   .linkedin-img {
     border-radius: 50%;
     height: 225px;
+    padding: 0.5em;
   }
   .github {
     display: block;
@@ -142,6 +145,7 @@
   .github-img {
     border-radius: 50%;
     height: 225px;
+    padding: 0.5em;
   }
   @media (min-width: 30em) {
     .icons {
