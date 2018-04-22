@@ -115,7 +115,7 @@
     text-align: center;
     width: 255px;
     height: 300px;
-    transition: 1s;
+    transition: transform 1s;
   }
   .facebook-img {
     border-radius: 50%;
@@ -124,6 +124,8 @@
   }
   .facebook:hover {
     transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
   }
   .twitter {
     display: block;
